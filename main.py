@@ -20,8 +20,6 @@ elif Columa == "b":
 
 elif Columa == "c":
   map[x-1][2] = "X"
-
-# Write your code above this row 👆
-# 🚨 Don't change the code below 👇
+  
 print(" ")
 print(f"{line1}\n{line2}\n{line3}")
